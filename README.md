@@ -1,1 +1,1 @@
-# Resume-Enhancement-ChatBot
+# Smart ATS - Resume Analyzer

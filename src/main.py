@@ -70,7 +70,7 @@ def generate_resume_analysis(resume_text, job_description):
     response = qa_chain.run(prompt)
     return json.loads(response)
 
-st.title("Smart ATS - Resume Analyzer")
+st.title("ATS - Resume Analyzer")
 st.text("Analyze your resume and get optimization tips for better ATS compatibility.")
 
 job_description = st.text_area("Paste the Job Description")

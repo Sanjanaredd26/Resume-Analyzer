@@ -1,1 +1,1 @@
-# Smart ATS - Resume Analyzer
+# ATS - Resume Analyzer
